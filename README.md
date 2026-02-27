@@ -20,6 +20,15 @@
 ![Flowchart](https://github.com/Manish-Kushvaha/Qr-Based-Attendance-System/blob/d01ae13cd344e7b8a6ac5b82183266a8ecc0a81b/assets/Sys%20Flowchart.png
 )
 
+### 🔐 Admin Login Interface  
+![Admin Login](https://github.com/Manish-Kushvaha/Qr-Based-Attendance-System/blob/dcf8e6790824c7c23c030df0eef3ce7884cc435e/assets/Admin%20login.png))
+
+### 📊 User Dashboard  
+![User Dashboard](https://github.com/Manish-Kushvaha/Qr-Based-Attendance-System/blob/dcf8e6790824c7c23c030df0eef3ce7884cc435e/assets/User%20dashboard.png)
+
+### 🗄 MySQL User Data Records  
+![Database Records](https://github.com/Manish-Kushvaha/Qr-Based-Attendance-System/blob/dcf8e6790824c7c23c030df0eef3ce7884cc435e/assets/Data%20record.png)
+
 ---
 
 ## 🧰 Tech Stack
