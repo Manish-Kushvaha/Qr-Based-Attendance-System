@@ -10,7 +10,15 @@
 - Built a **Java desktop application using NetBeans and Java Swing** for an intuitive user interface  
 - Implemented **QR code generation and scanning** using the ZXing library  
 - Added **time-based check-in/check-out validation** to prevent duplicate or proxy attendance  
-- Integrated **MySQL database** to securely store user and attendance records  
+- Integrated **MySQL database** to securely store user and attendance records
+- 
+---
+
+## 📷 Project Screenshots
+
+### 🏗 System Flowchart
+![Flowchart](https://github.com/Manish-Kushvaha/Qr-Based-Attendance-System/blob/d01ae13cd344e7b8a6ac5b82183266a8ecc0a81b/assets/Sys%20Flowchart.png
+)
 
 ---
 
